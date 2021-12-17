@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shaima Story</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="accept_terms">I accept terms</string>
 </resources>
